@@ -1,0 +1,8 @@
+{
+  "name": "Exodus Bible Bowl 2026 Tracker",
+  "description": "A comprehensive study tool for the 2026 Bible Bowl focusing on Exodus Chapters 1-20, 32-34, and 38-40. Features flashcards, tabernacle tally, and mnemonic practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
